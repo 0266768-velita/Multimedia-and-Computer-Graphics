@@ -1,0 +1,13 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="white"/>
+  <circle cx="85" cy="70" r="38" fill="yellow"/>
+  <line x1="85" y1="0" x2="85" y2="40" stroke="red" stroke-width="3"/>
+  <line x1="85" y1="100" x2="85" y2="150" stroke="red" stroke-width="3"/>
+  <line x1="0" y1="70" x2="40" y2="70" stroke="red" stroke-width="3"/>
+  <line x1="130" y1="70" x2="170" y2="70" stroke="red" stroke-width="3"/>
+  <line x1="50" y1="35" x2="25" y2="10" stroke="red" stroke-width="3"/>
+  <line x1="120" y1="35" x2="150" y2="10" stroke="red" stroke-width="3"/>
+  <line x1="50" y1="105" x2="25" y2="135" stroke="red" stroke-width="3"/>
+  <line x1="120" y1="105" x2="150" y2="135" stroke="red" stroke-width="3"/>
+  <path d="M 0 185 Q 100 170 200 190 T 400 185 L 400 300 L 0 300 Z" fill="green"/>
+</svg>
