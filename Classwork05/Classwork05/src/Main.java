@@ -27,11 +27,11 @@ class FileTranslator {
         }
 
         // request the language to translate it
-        System.out.print("language to translate? (eg. Spanish, French, Japanese): ");
+        System.out.print("language to translate? ( Spanish, French, Japanese): ");
         String targetLang = scanner.nextLine().trim();
 
         // build JSON body for Groq API
-        String jsonBody = """
+        String jsonBody = """ 
                 {
                   "model": "llama-3.3-70b-versatile",
                   "messages": [
