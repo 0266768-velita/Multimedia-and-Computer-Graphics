@@ -1,0 +1,6 @@
+file 'C:\Users\gonza\OneDrive\Aplicaciones\Midterm02\Videogenerator\video_output\part_intro.mp4'
+file 'C:\Users\gonza\OneDrive\Aplicaciones\Midterm02\Videogenerator\video_output\part_0.mp4'
+file 'C:\Users\gonza\OneDrive\Aplicaciones\Midterm02\Videogenerator\video_output\part_1.mp4'
+file 'C:\Users\gonza\OneDrive\Aplicaciones\Midterm02\Videogenerator\video_output\part_2.mp4'
+file 'C:\Users\gonza\OneDrive\Aplicaciones\Midterm02\Videogenerator\video_output\part_3.mp4'
+file 'C:\Users\gonza\OneDrive\Aplicaciones\Midterm02\Videogenerator\video_output\part_map.mp4'
